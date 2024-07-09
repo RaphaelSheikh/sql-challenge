@@ -1,6 +1,6 @@
 # SQL-Challenge
 
-![image](https://github.com/RaphaelSheikh/sql-challenge/assets/166172978/36e58204-0937-4f00-b0f8-e08508800312)
+https://raw.githubusercontent.com/ermiasgelaye/sql-challenge/master/EmployeeSQL/Images/postsql.gif
 
 This repository discusses a research project on the employee database at Pewlett Hackard from the 1980s and 1990s. All that remains of the database of employees from that period is in six CSV files.
 
