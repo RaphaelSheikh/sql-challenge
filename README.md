@@ -1,5 +1,7 @@
 # SQL-Challenge
 
+![image](https://github.com/RaphaelSheikh/sql-challenge/assets/166172978/36e58204-0937-4f00-b0f8-e08508800312)
+
 I am a data engineer at a company. I'm tasked with modeling, engineering and analysis of employee's who worked at the company during the 1980's and 1990's.  
 
 I will have to design the tables, import the CSV files into a SQL Database and then perform analysis within SQL.
