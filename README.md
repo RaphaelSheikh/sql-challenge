@@ -1,8 +1,8 @@
 # SQL-Challenge
 
-You're a data engineer at a company. You're tasked with modeling, engineering and analysis of employee's who worked at the company during the 1980's and 1990's.  
+I am a data engineer at a company. I'm tasked with modeling, engineering and analysis of employee's who worked at the company during the 1980's and 1990's.  
 
-You will have to design the tables, import the CSV files into a SQL Database and then perform analysis within SQL.
+I will have to design the tables, import the CSV files into a SQL Database and then perform analysis within SQL.
 
 ### Data Modeling
 
