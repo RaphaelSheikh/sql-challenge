@@ -2,7 +2,11 @@
 
 ![image](https://github.com/RaphaelSheikh/sql-challenge/assets/166172978/36e58204-0937-4f00-b0f8-e08508800312)
 
-I am a data engineer at a company. I'm tasked with modeling, engineering and analysis of employee's who worked at the company during the 1980's and 1990's.  
+This repository discusses a research project on the employee database at Pewlett Hackard from the 1980s and 1990s. All that remains of the database of employees from that period is in six CSV files.
+
+On this project, a table was created that holds employees data in the CSVs, import the CSVs into a SQL database, and the data exploration was conducted to answering the research questions, and discussed in the following parts:
+
+I am a data engineer at Pewlett Hackard. I'm tasked with modeling, engineering and analysis of employee's who worked at the company during the 1980's and 1990's.  
 
 I will have to design the tables, import the CSV files into a SQL Database and then perform analysis within SQL.
 
